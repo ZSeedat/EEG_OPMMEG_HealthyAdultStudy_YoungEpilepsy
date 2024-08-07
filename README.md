@@ -6,3 +6,5 @@ These data are 'pre-processed'. OPM-MEG data have had homogeneous field correcti
 
 The code changed throughout the course of the project, and the final versions uploaded here are unlikley to be 'cut and paste' and immediately useable on your PC. However, they are well commented and give you an understanding of the steps taken during analysis, allowing the results to be reproduced. If you have any questions at all, please email me at zseedat@youngepilepsy.org.uk and I will be very happy to help.
 
+For further methodlogical details, please read our paper: https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00179/120899
+
